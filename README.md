@@ -169,10 +169,12 @@ PUTCHAR_PROTOTYPE{
 <img width="995" height="772" alt="Screenshot 2025-09-15 112259" src="https://github.com/user-attachments/assets/254c5fda-51df-4632-a7de-318537ff3297" />
 
  ## Circuit board :
+![im2-io1-ex4](https://github.com/user-attachments/assets/2d54e14d-6edb-4f8d-a6d6-e6a8729dd35a)
 
- ![iot exp 4 output 1](https://github.com/user-attachments/assets/b932520f-7927-4ab7-9609-b8573b4be3ce)
+ 
+![im-iot-4](https://github.com/user-attachments/assets/dc1140f2-9354-4615-88e5-d040a4934497)
 
- ![iot exp 04 output 1 1](https://github.com/user-attachments/assets/a9d361ec-dafe-4e2f-9f4e-1348e8939b08)
+ 
 
 ## Result :
 Interfacing a  IR SENSOR and interrupt is generated using external interrupt mode , visualized on serial port 
